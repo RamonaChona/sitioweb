@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-image: url(FONDO\ NEGRO\ PLANTITA.jpg);
+    background-repeat:repeat;
+    background-position: center center;
+    background-size: contain;
+    width: 100%;
+    img{
+        width: 380px;
+        height: 150px;
+        margin: 5px 5px 5px 5px;
+        
+    }
+}
+
+a{
+    text-decoration: none;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    flex direction: row;
+    margin: 25px 25px 25px 25px;
+}
+
+header ul li{
+    margin:30px;
+}
+h1 {
+    font-size: 34px;
+    color: rgb(230, 204, 35);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 20px;
+    color: rgb(50, 65, 204);
+}
+
+.presentacion{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.presentacion h1{
+    font-size: 35px;
+    color: rgb(26, 111, 51);
+    text-align: center;
+}
+
+.presentacion p{
+    width: 100%;
+    font-size: 30px;
+    padding: 10px;
+    font-family:  "Bodoni Moda SC", serif;
+    color: rgb(119, 102, 3);
+    text-align: center;
+}
+
+#NOSOTROS iframe{
+    padding: 10px;
+    margin: 10px;
+}
+h1{font-size:xx-large;
+    color: rgb(27, 115, 10);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    img{
+        width: 1000px;
+        height: 480px;
+      
+    }
+   
+
+}
+h2{
+    font-size: larger;
+    color: rgb(227, 231, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(FONDO\ NEGRO\ PLANTITA.jpg);
+    
+}
+p{
+    font-size: medium;
+    color: #000000;
+}
+
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    background-image: url(fondo\ plantita.jpg);
+    background-size: cover;
+    justify-content: center;
+    margin: 25px 25px 25px 25px;
+}
+
+.contenedor1{
+    display: flex;
+    flex-direction:row;
+    width: 95%;
+    background-image: url(fondo\ plantita.jpg)
+    background-size: cover;
+    justify-content: center;
+    margin: 25px 25px 25px 25px;
+}
+
+.contenedor2 {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    background-image: url(fondo\ plantita.jpg);
+    background-size: cover;
+    justify-content: center;
+    margin: 25px 25px 25px 25px;
+   
+}
+
+.contenedor3 {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    background-image: url(fondo\ plantita.jpg);
+    background-repeat:repeat-x;
+    background-size: cover;
+    justify-content:center ;
+    margin: 25px 25px 25px 25px;
+   
+}
+
+.contenedor4 {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    background-image: url(fondo\ plantita.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    justify-content: center;
+    margin: 25px 25px 25px 25px;
+   
+}
+
+.contenedor5{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    background-image:url(FONDO\ NEGRO\ PLANTITA.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    justify-content: center;
+    margin: 25px 25px 25px 25px;
+
+    width: 92%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.caja{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+    
+}
+
+.caja img{
+    border-radius: 50%;
+}
+
+.cajaa{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.cajaa img{
+    border-radius: 50%;
+}
+
+.caja2{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.caja2 img{
+    border-radius: 50%;
+}
+
+.caja21{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.caja21 img{
+    border-radius: 50%;
+}
+
+.caja3{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.caja3 img{
+    border-radius: 50%;
+}
+
+.caja31{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.caja31 img{
+    border-radius: 50%;
+}
+
+.caja4{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    display:flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center();
+    text-align: center;
+}
+
+.caja4 img{
+    border-radius: 50%;
+}
+
+footer{
+    text-align: center;
+    margin: 25px 25px 25px 25px;
+
+}
+
